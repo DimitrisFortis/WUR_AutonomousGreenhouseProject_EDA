@@ -7,7 +7,7 @@ The teams developed their own intelligent algorithms and used them to determine 
 
 The ***teams objective*** was to maximize net profit, by minimizing use of resources (e.g. water, nutrients, energy -heating and electricity- CO2) while optimizing income as a function of production and fruit quality.
 
-***Data*** were collected during a 6-month cherry tomato production in 6 high-tech glasshouse compartments, located at the Wageningen Research Centre in Bleiswijk (The Netherlands). The dataset contains data on outdoor and indoor greenhouse climate, irrigation, status of actuators, requested and realized climate setpoints, resource consumption, harvest, crop-related parameters, tomato quality, analysis of irrigation and drain samples and root-zone/slab information.
+***Data*** were collected during a 6-month cherry tomato production in 6 high-tech glasshouse compartments, located at the Wageningen Research Centre in Bleiswijk (The Netherlands). The dataset contains data on outdoor and indoor greenhouse climate, irrigation, status of actuators, requested and realized climate setpoints (“Weather” and “GreenhouseClimate”), resource consumption (“Resources”), harvest (“Production”), crop-related parameters (“CropParameters”), tomato quality ("TomQuality”), analysis of irrigation and drain samples (“LabAnalysis”) and root-zone/slab information (“GrodanSens”).
 
 The ***project's objective*** is to describe and analyze the results of the second *“Autonomous Greenhouse Challenge”*.
 
